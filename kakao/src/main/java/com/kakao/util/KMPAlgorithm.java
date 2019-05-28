@@ -1,10 +1,3 @@
-/*****************************************************************************
- * PROJECT NAME   : 생태 관광 서비스 ( Echo Tourism Program Service)
- * SUBSYSTEM NAME : ETP-Service
- * FILE NAME      : KMPAlgorithm.java
- * DESCRIPTION    : 장문의 글에서 특정 키워드를 효율적으로 찾기 위한 알고리즘
- *****************************************************************************/
-
 package com.kakao.util;
 
 import java.util.ArrayList;
